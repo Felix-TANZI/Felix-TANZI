@@ -84,6 +84,9 @@
   <a href="https://github.com/Felix-TANZI" target="_blank">
     <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.instagram.com/felix.tanzi/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>
 </div>
 <br>
 <div align="center">
