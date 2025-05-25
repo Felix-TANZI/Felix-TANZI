@@ -90,6 +90,7 @@
 </div>
 <br>
 <div align="center">
+  <h3 style="color: #24292e; margin-top: 0;">👀 Profile Views</h3>
   <img src="https://komarev.com/ghpvc/?username=Felix-TANZI&&style=flat-square" align="center" />
 </div>
 <div align="center">
